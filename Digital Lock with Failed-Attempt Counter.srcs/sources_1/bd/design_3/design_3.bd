@@ -1,0 +1,25 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x0",
+      "device": "xc7a12ticpg238-1L",
+      "gen_directory": "../../../../Digital Lock with Failed-Attempt Counter.gen/sources_1/bd/design_3",
+      "name": "design_3",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2024.1"
+    },
+    "design_tree": {
+      "gig_ethernet_pcs_pma_0": ""
+    },
+    "components": {
+      "gig_ethernet_pcs_pma_0": {
+        "vlnv": "xilinx.com:ip:gig_ethernet_pcs_pma:16.2",
+        "ip_revision": "18",
+        "xci_name": "design_3_gig_ethernet_pcs_pma_0_0",
+        "xci_path": "ip\\design_3_gig_ethernet_pcs_pma_0_0\\design_3_gig_ethernet_pcs_pma_0_0.xci",
+        "inst_hier_path": "gig_ethernet_pcs_pma_0"
+      }
+    }
+  }
+}

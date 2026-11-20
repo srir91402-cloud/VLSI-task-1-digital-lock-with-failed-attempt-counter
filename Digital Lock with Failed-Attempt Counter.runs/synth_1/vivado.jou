@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Mon Oct 12 10:15:44 2026
+# Process ID: 19976
+# Current directory: C:/Users/SRIRAM L.N/Digital Lock with Failed-Attempt Counter/Digital Lock with Failed-Attempt Counter.runs/synth_1
+# Command line: vivado.exe -log digital_lock.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source digital_lock.tcl
+# Log file: C:/Users/SRIRAM L.N/Digital Lock with Failed-Attempt Counter/Digital Lock with Failed-Attempt Counter.runs/synth_1/digital_lock.vds
+# Journal file: C:/Users/SRIRAM L.N/Digital Lock with Failed-Attempt Counter/Digital Lock with Failed-Attempt Counter.runs/synth_1\vivado.jou
+# Running On        :LAPTOP-6E2MQRGV
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26300
+# Processor Detail  :13th Gen Intel(R) Core(TM) i5-13420H
+# CPU Frequency     :2611 MHz
+# CPU Physical cores:8
+# CPU Logical cores :12
+# Host memory       :16824 MB
+# Swap memory       :1073 MB
+# Total Virtual     :17898 MB
+# Available Virtual :6158 MB
+#-----------------------------------------------------------
+source digital_lock.tcl -notrace
